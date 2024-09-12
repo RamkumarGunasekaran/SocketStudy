@@ -55,8 +55,8 @@ Socket programming finds applications in various domains, including web developm
 6.	
 
 ## Program
-# Name: RAMKUMAR G
-# Reg NO: 212223220084
+Name: RAMKUMAR G
+Reg NO: 212223220084
 
 ## Client:
 ```
