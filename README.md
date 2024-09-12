@@ -59,7 +59,9 @@ Name: RAMKUMAR G
 
 Reg NO: 212223220084
 
+
 ## Client:
+
 ```
 import socket
 from datetime import datetime
@@ -75,6 +77,7 @@ if ack:
     print(ack)
 c.close()
 ```
+
 ## Server:
 ```
 import socket
@@ -84,9 +87,9 @@ print(s.getsockname())
 print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
+
 ## Output:
 ![Screenshot 2024-09-12 052652](https://github.com/user-attachments/assets/4e8d445c-c03b-4fb4-8ac9-ff08cfadb1de)
-
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
