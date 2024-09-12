@@ -84,7 +84,9 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## Output:
-![360297770-68c93f03-a816-407e-a1fb-8487eb6e0000](https://github.com/user-attachments/assets/b87cd1be-fddb-4892-b9cb-2b8cf8c3c787)
+
+![360297770-68c93f03-a816-407e-a1fb-8487eb6e0000](https://github.com/user-attachments/assets/57e56e46-050f-4cc9-8026-5932c5176156)
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
