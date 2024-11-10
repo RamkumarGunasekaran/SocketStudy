@@ -1,4 +1,7 @@
-# Ex.No:1a Study of Socket Programming
+## NAME: RAMKUMAR G
+## REG NO: 212223220084
+
+# Ex.No:1a  Study of Socket Programming
 
 ## Aim: 
 To perform a study on Socket Programming
